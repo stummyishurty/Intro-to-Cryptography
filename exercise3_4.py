@@ -40,5 +40,5 @@ def fast_power_mod(g, A, n):
     return b
 
 
-print(exercise3_algorithm(171, 83))
-print(fast_power_mod(171, 83, 256))
+print(exercise3_algorithm(17, 83))
+print(fast_power_mod(17, 83, 256))
